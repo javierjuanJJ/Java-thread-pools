@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ExecutorService/ExecutorService.iml" filepath="$PROJECT_DIR$/ExecutorService/ExecutorService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExecutorService2/ExecutorService2.iml" filepath="$PROJECT_DIR$/ExecutorService2/ExecutorService2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercutor service/Exercutor service.iml" filepath="$PROJECT_DIR$/Exercutor service/Exercutor service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Thread Pool.iml" filepath="$PROJECT_DIR$/Java Thread Pool.iml" />
+    </modules>
+  </component>
+</project>
